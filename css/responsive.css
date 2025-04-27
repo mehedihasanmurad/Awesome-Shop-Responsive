@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 676px) {
+    .section-container {
+        flex-direction: column;
+        margin-left: 80px;
+    }
+
+    .nav-items {
+        flex-direction: column;
+        margin-left: 30px;
+    }
+
+    .extra-add {
+        margin-bottom: 10px;
+    }
+}
