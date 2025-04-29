@@ -10,7 +10,34 @@
         margin-left: 30px;
     }
 
+    .nav-items a {
+        
+    margin-bottom: 10px;
+    }
+
     .extra-add {
         margin-bottom: 10px;
+    }
+
+    /* Banner part */
+    .banner-section {
+        flex-direction: column;
+    }
+
+    .text-container {
+        width: 100%
+    }
+
+    .banner-image-container {
+        width: 100%;
+    }
+
+    #collections {
+        font-size: 35px;
+    }
+
+    .discount {
+        height: 70px;
+        width: 70px;
     }
 }
