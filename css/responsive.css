@@ -1,5 +1,8 @@
 
 @media screen and (max-width: 676px) {
+    .header-part {
+        position: static;
+    }
     .section-container {
         flex-direction: column;
         margin-left: 80px;
@@ -22,6 +25,7 @@
     /* Banner part */
     .banner-section {
         flex-direction: column;
+        margin-top: 40px;
     }
 
     .text-container {
